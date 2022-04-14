@@ -1,0 +1,19 @@
+{
+  "name": "file-uploader-react-express-traversy-media",
+  "version": "1.0.0",
+  "description": "File Uploader with React Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewanwakilahmed/file-uploader-react-express-traversy-media.git"
+  },
+  "author": "Dewan Wakil Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewanwakilahmed/file-uploader-react-express-traversy-media/issues"
+  },
+  "homepage": "https://github.com/dewanwakilahmed/file-uploader-react-express-traversy-media#readme"
+}
